@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: miglayout-swing.jar miglayout-core.jar AbsoluteLayout.jar 
+ RXTXcomm.jar beautyeye_lnf.jar intellij_forms_rt.jar
+Main-Class: Main
+

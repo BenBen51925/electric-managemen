@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="electric-managemen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/electric_managemen_jar</output-path>
+    <root id="root">
+      <element id="archive" name="electric-managemen.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="electric-managemen" />
+      </element>
+      <element id="library" level="project" name="MigLayout" />
+      <element id="library" level="project" name="AbsoluteLayout" />
+      <element id="library" level="project" name="RXTXcomm" />
+      <element id="library" level="project" name="beautyeye_lnf" />
+      <element id="library" level="project" name="IntelliJ IDEA GridLayout" />
+    </root>
+  </artifact>
+</component>

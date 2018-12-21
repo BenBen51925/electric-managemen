@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xdoc.src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/xdoc-src-1.03.jar!/src" />
+    </SOURCES>
+  </library>
+</component>

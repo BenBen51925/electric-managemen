@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<bound>
+<MAIN_BUTTON>
+<技术区 componentType="MAIN_BUTTON" localX="29" localY="146" name="技术区" sizeHeight="186" sizeWidth="188"/>
+<行业类别 componentType="MAIN_BUTTON" localX="32" localY="375" name="行业类别" sizeHeight="178" sizeWidth="203"/>
+<总开关 componentType="MAIN_BUTTON" localX="42" localY="637" name="总开关" sizeHeight="191" sizeWidth="185"/>
+</MAIN_BUTTON>
+<rightComponent>
+<右侧外层主界面 componentType="rightComponent" localX="183" localY="120" name="右侧外层主界面" sizeHeight="595" sizeWidth="1212"/>
+</rightComponent>
+<topIcoLabelComponent>
+<上部图标 componentType="topIcoLabelComponent" localX="99" localY="54" name="上部图标" sizeHeight="83" sizeWidth="214"/>
+</topIcoLabelComponent>
+<topTextLabelComponent>
+<上部标题 componentType="topTextLabelComponent" localX="1010" localY="80" name="上部标题" sizeHeight="35" sizeWidth="316"/>
+</topTextLabelComponent>
+<downTextLabelComponent>
+<下部标题 componentType="downTextLabelComponent" localX="684" localY="830" name="下部标题" sizeHeight="35" sizeWidth="640"/>
+</downTextLabelComponent>
+</bound>

@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="electric-managemen:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32a62475-bc22-4a17-ac77-8414b6a32c8e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/electric_managemen$Main.ic" NAME="Main Coverage Results" MODIFIED="1544853547159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="95" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1350795332">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="32" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="8" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.39" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.44" value="2" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.49" value="2" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.78" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="47" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="bak" value="1" />
+          <entry key="class" value="45" />
+          <entry key="dll" value="4" />
+          <entry key="form" value="1" />
+          <entry key="gif" value="1" />
+          <entry key="html" value="22" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="1308" />
+          <entry key="jfd" value="2" />
+          <entry key="jpg" value="10" />
+          <entry key="kt" value="1" />
+          <entry key="png" value="115" />
+          <entry key="properties" value="51" />
+          <entry key="xml" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="45" />
+          <entry key="GUI_DESIGNER_FORM" value="1" />
+          <entry key="HTML" value="22" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Image" value="126" />
+          <entry key="JAVA" value="1308" />
+          <entry key="JFormDesigner_form" value="2" />
+          <entry key="Kotlin" value="1" />
+          <entry key="Manifest" value="1" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Properties" value="51" />
+          <entry key="XML" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="dummy" value="63" />
+          <entry key="html" value="373" />
+          <entry key="java" value="58651" />
+          <entry key="kt" value="5" />
+          <entry key="properties" value="124" />
+          <entry key="xml" value="197" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="HTML" value="373" />
+          <entry key="JAVA" value="58651" />
+          <entry key="Kotlin" value="5" />
+          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="Properties" value="124" />
+          <entry key="XML" value="197" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/temple/rightComponent/TechnicalDetailsComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="205" lean-forward="true" selection-start-line="205" selection-end-line="205" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/temple/rightLayComponetn/RightMiddleComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/LoadProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="97" column="92" selection-start-line="97" selection-start-column="92" selection-end-line="97" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/temple/button/ChangeSizeButton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="64" column="51" lean-forward="true" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/temple/rightLayComponetn/RightComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/temple/rightLayComponetn/RightOutComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="102" column="71" selection-start-line="102" selection-start-column="71" selection-end-line="102" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Gradle Kotlin DSL Settings" />
+        <option value="Kotlin Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>update</find>
+      <find>system</find>
+      <find>leftButton</find>
+      <find>rightoutcom</find>
+      <find>rightoutcomponent</find>
+      <find>remove</find>
+      <find>&quot;&quot;</find>
+      <find>remo</find>
+      <find>addno</find>
+      <find>serialPort.close</find>
+      <find>成功启动串口监听</find>
+      <find>返回数据为：</find>
+      <find>isOpen</find>
+      <find>colo</find>
+      <find>returnbutton</find>
+      <find>返回</find>
+      <find>this</find>
+      <find>visi</find>
+      <find>项目</find>
+      <find>getComponent</find>
+      <find>handle</find>
+      <find>onAction</find>
+      <find>urlTextField</find>
+      <find>checkThread();</find>
+      <find>init</find>
+      <find>icon</find>
+      <find>file://</find>
+      <find>serizationUrl</find>
+      <find>statusbar</find>
+      <find>urlField</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;html&gt;</replace>
+      <replace>&lt;html&gt;\n&lt;meta charset\=&quot;UTF-8&quot;&gt;\n&lt;title&gt;Title&lt;/title&gt;\n&lt;div style\=&quot;color\: \#FF2Fff;&quot;&gt;\n    \u57FA\u672C\u539F\u7406\uFF1A\u7535\u70ED\u819C\u91C7\u6696\u6280\u672F\uFF0C\u7CFB\u7EDF\u91C7\u7528\u4E00\u79CD\u901A\u7535\u540E\u80FD\u53D1\u70ED\u7684\u534A\u900F\u660E\u805A\u916F\u8584\u819C\uFF0C\n    \u6709\u53EF\u5BFC\u7535\u7684\u7279\u5236\u6CB9\u58A8\u3001\u91D1\u5C5E\u8F7D\u6D41\u6761\u7ECF\u52A0\u5DE5\u3001\u70ED\u538B\u5728\u7EDD\u7F18\u805A\u916F\u8584\u819C\u95F4\u5236\u6210\u3002\u5DE5\u4F5C\u65F6\u4EE5\u7535\u70ED\u819C\u4E3A\u53D1\u70ED\u4F53\uFF0C\n    \u5C06\u70ED\u91CF\u4EE5\u8F90\u5C04\u7684\u5F62\u5F0F\u9001\u5165\u7A7A\u95F4\uFF0C\u4F7F\u4EBA\u4F53\u548C\u7269\u4F53\u9996\u5148\u5F97\u5230\u6E29\u6696\uFF0C\u5668\u7EFC\u5408\u6548\u679C\u4F18\u4E8E\u4F20\u7EDF\u7684\u5BF9\u6D41\u4F9B\u6696\u65B9\u5F0F\u3002\n&lt;/div&gt;\n&lt;br/&gt;\u7279\u70B9\uFF1A\u8EAB\u4F53\u8212\u670D\uFF0C\u5B89\u5168\u53EF\u9760\u3001\u53EA\u80FD\u63A7\u5236\u3001\u65E0\u6392\u653E\u3002\n&lt;br/&gt;\u4F7F\u7528\u9886\u57DF\uFF1A\u7531\u4E8E\u8D39\u7528\u8F83\u9AD8\uFF0C\u76EE\u524D\u63A8\u5E7F\u8303\u56F4\u96C6\u4E2D\u5728\u90E8\u5206\u57CE\u5E02\u96C6\u4E2D\u4F9B\u6696\u65E0\u6CD5\u8986\u76D6\u7684\u573A\u6240\u6216\u4E0D\u670D\u9AD8\u6863\u5C0F\u533A\n&lt;/html&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/Lamabe.java" />
+        <option value="$PROJECT_DIR$/test/TestJProgressBar.java" />
+        <option value="$PROJECT_DIR$/src/frame/interface/LodingInterface.kt" />
+        <option value="$PROJECT_DIR$/src/exception/SendException.java" />
+        <option value="$PROJECT_DIR$/src/listener/com/PollingListener.java" />
+        <option value="$PROJECT_DIR$/src/frame/LodingJFrame.java" />
+        <option value="$PROJECT_DIR$/src/temple/LoginComponent.java" />
+        <option value="$PROJECT_DIR$/src/utils/DocUtils.java" />
+        <option value="$PROJECT_DIR$/src/utils/XDocUtilities.java" />
+        <option value="$PROJECT_DIR$/test/Frame1.java" />
+        <option value="$PROJECT_DIR$/test/FanxingTest.java" />
+        <option value="$PROJECT_DIR$/test/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/frame/MainJframe.java" />
+        <option value="$PROJECT_DIR$/test/WebEngine.java" />
+        <option value="$PROJECT_DIR$/src/frame/HtmlJFrame.java" />
+        <option value="$PROJECT_DIR$/src/temple/LeftModule.java" />
+        <option value="$PROJECT_DIR$/test/XDocBuilderTest.java" />
+        <option value="$PROJECT_DIR$/test/details.html" />
+        <option value="$PROJECT_DIR$/out/production/electric-managemen/detail/details.html" />
+        <option value="$PROJECT_DIR$/out/production/electric-managemen/detail/电热膜.html" />
+        <option value="$PROJECT_DIR$/src/browser/WebAppURLConnection.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/frame/SetJFrame.java" />
+        <option value="$PROJECT_DIR$/src/frame/SetDocJFrame.java" />
+        <option value="$PROJECT_DIR$/src/temple/button/minButton/IndustryCategoryButton.java" />
+        <option value="$PROJECT_DIR$/src/temple/button/minButton/TechnicalAreaButton.java" />
+        <option value="$PROJECT_DIR$/src/temple/mainComponent/TopIconLabel.java" />
+        <option value="$PROJECT_DIR$/src/frame/XDocFrame.java" />
+        <option value="$PROJECT_DIR$/src/frame/FristLoadFrame.java" />
+        <option value="$PROJECT_DIR$/src/stcpream/StaticSet.java" />
+        <option value="$PROJECT_DIR$/src/temple/button/UpdateButButton.java" />
+        <option value="$PROJECT_DIR$/src/temple/button/DelButButton.java" />
+        <option value="$PROJECT_DIR$/src/entity/ButtonFunctionBean.java" />
+        <option value="$PROJECT_DIR$/src/utils/DefaultStringUtils.java" />
+        <option value="$PROJECT_DIR$/src/temple/button/RightButton.java" />
+        <option value="$PROJECT_DIR$/resourse/button.properties" />
+        <option value="$PROJECT_DIR$/src/defaultDB/implDb/ComplateXmlDb.java" />
+        <option value="$PROJECT_DIR$/src/stcpream/AllBoundSetting.java" />
+        <option value="$PROJECT_DIR$/src/frame/HtmlSetJFrame.java" />
+        <option value="$PROJECT_DIR$/src/temple/MainComponent.java" />
+        <option value="$PROJECT_DIR$/src/frame/HtmlJPanel.java" />
+        <option value="$PROJECT_DIR$/src/temple/button/buttonFaction/ChangeSizeButtonFaction.java" />
+        <option value="$PROJECT_DIR$/src/action/ChangeSizeAction.java" />
+        <option value="$PROJECT_DIR$/src/temple/rightLayComponetn/RightComponent.java" />
+        <option value="$PROJECT_DIR$/src/temple/rightComponent/IndustryCategoryComponent.java" />
+        <option value="$PROJECT_DIR$/src/temple/rightComponent/MainSwitchComponent.java" />
+        <option value="$PROJECT_DIR$/src/temple/rightComponent/TechnicalAreaComponent.java" />
+        <option value="$PROJECT_DIR$/src/utils/LoadProperties.java" />
+        <option value="$PROJECT_DIR$/src/temple/button/ChangeSizeButton.java" />
+        <option value="$PROJECT_DIR$/src/temple/rightLayComponetn/RightOutComponent.java" />
+        <option value="$PROJECT_DIR$/src/temple/rightComponent/TechnicalDetailsComponent.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="resourse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="comSerialPort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="defaultDB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="detail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stcpream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="temple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="temple" type="462c0819:PsiDirectoryNode" />
+              <item name="button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="temple" type="462c0819:PsiDirectoryNode" />
+              <item name="button" type="462c0819:PsiDirectoryNode" />
+              <item name="buttonFaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="temple" type="462c0819:PsiDirectoryNode" />
+              <item name="button" type="462c0819:PsiDirectoryNode" />
+              <item name="minButton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="temple" type="462c0819:PsiDirectoryNode" />
+              <item name="mainComponent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="temple" type="462c0819:PsiDirectoryNode" />
+              <item name="rightComponent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="temple" type="462c0819:PsiDirectoryNode" />
+              <item name="rightLayComponetn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-managemen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-managemen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/electric-managemen/test/FanxingTest.java" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="313" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545297625017" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/commons-io-2.6-sources.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\electric-managemen\src\img" />
+      <recent name="D:\electric-managemen\src" />
+      <recent name="D:\electric-managemen\src\detail" />
+      <recent name="D:\electric-managemen\lib" />
+      <recent name="D:\electric-managemen\src\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="temple.button" />
+      <recent name="frame" />
+      <recent name="stcpream" />
+      <recent name="temple.button.minButton" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\electric-managemen\lib" />
+      <recent name="D:\electric-managemen\test" />
+      <recent name="D:\electric-managemen\src\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="LoadProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.LoadProperties" />
+      <module name="electric-managemen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="electric-managemen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="electric-managemen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XDocBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XDocBuilderTest" />
+      <module name="electric-managemen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="electric-managemen" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MainClass" />
+      <item itemvalue="JUnit.MainClass.main" />
+      <item itemvalue="Application.XDocBuilderTest" />
+      <item itemvalue="Application.LoadProperties" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LoadProperties" />
+        <item itemvalue="Application.XDocBuilderTest" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="JUnit.MainClass.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32a62475-bc22-4a17-ac77-8414b6a32c8e" name="Default Changelist" comment="" />
+      <created>1541061175331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541061175331</updated>
+      <workItem from="1541061183575" duration="4845000" />
+      <workItem from="1541116745302" duration="2099000" />
+      <workItem from="1541118967063" duration="4851000" />
+      <workItem from="1541123915750" duration="10060000" />
+      <workItem from="1541149467726" duration="2422000" />
+      <workItem from="1541206270605" duration="24531000" />
+      <workItem from="1541375397954" duration="12073000" />
+      <workItem from="1541548962058" duration="27117000" />
+      <workItem from="1541636432739" duration="25502000" />
+      <workItem from="1541722163584" duration="14582000" />
+      <workItem from="1542251688613" duration="16670000" />
+      <workItem from="1542326300111" duration="27555000" />
+      <workItem from="1542412757809" duration="26659000" />
+      <workItem from="1542585381003" duration="13541000" />
+      <workItem from="1542672013673" duration="7093000" />
+      <workItem from="1542703233437" duration="2856000" />
+      <workItem from="1542758250551" duration="2830000" />
+      <workItem from="1542783085381" duration="6270000" />
+      <workItem from="1542844932337" duration="10554000" />
+      <workItem from="1543018258095" duration="4801000" />
+      <workItem from="1543197908691" duration="739000" />
+      <workItem from="1543211603359" duration="1301000" />
+      <workItem from="1543364454377" duration="4586000" />
+      <workItem from="1543393981518" duration="6016000" />
+      <workItem from="1543450232825" duration="27562000" />
+      <workItem from="1543536125296" duration="26898000" />
+      <workItem from="1543622868066" duration="7924000" />
+      <workItem from="1543633048885" duration="2794000" />
+      <workItem from="1543642573632" duration="13630000" />
+      <workItem from="1543795540624" duration="1723000" />
+      <workItem from="1543797855669" duration="26102000" />
+      <workItem from="1543881877397" duration="4073000" />
+      <workItem from="1543886199324" duration="16971000" />
+      <workItem from="1543910866981" duration="1151000" />
+      <workItem from="1543968457589" duration="11251000" />
+      <workItem from="1544054918668" duration="17625000" />
+      <workItem from="1544142268449" duration="80000" />
+      <workItem from="1544745986920" duration="11048000" />
+      <workItem from="1544757805723" duration="16986000" />
+      <workItem from="1544832503288" duration="25011000" />
+      <workItem from="1545004923521" duration="28949000" />
+      <workItem from="1545091596226" duration="27143000" />
+      <workItem from="1545177589767" duration="329000" />
+      <workItem from="1545199226464" duration="12731000" />
+      <workItem from="1545264309615" duration="6285000" />
+      <workItem from="1545289795470" duration="3932000" />
+      <workItem from="1545293892000" duration="2246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Lamabe_testIterate - 2018.12.06 at 16h 34m 37s.xml">
+      <configuration name="Lamabe.testIterate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XDocFrame_show1 - 2018.12.15 at 14h 23m 43s.xml">
+      <configuration name="XDocFrame.show1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XDocFrame_show1 - 2018.12.15 at 14h 24m 19s.xml">
+      <configuration name="XDocFrame.show1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XDocFrame_show1 - 2018.12.15 at 14h 24m 53s.xml">
+      <configuration name="XDocFrame.show1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="XDocFrame_show1 - 2018.12.15 at 14h 25m 47s.xml">
+      <configuration name="XDocFrame.show1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SetJFrame_show1 - 2018.12.15 at 14h 27m 15s.xml">
+      <configuration name="SetJFrame.show1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainClass_main - 2018.12.17 at 15h 07m 23s.xml">
+      <configuration name="MainClass.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainClass_main - 2018.12.17 at 15h 07m 38s.xml">
+      <configuration name="MainClass.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainClass_main - 2018.12.17 at 15h 08m 13s.xml">
+      <configuration name="MainClass.main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainClass_main - 2018.12.17 at 15h 42m 30s.xml">
+      <configuration name="MainClass.main" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="551997000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83829784" visible="true" weight="0.27722064" />
+      <window_info id="Structure" order="1" sideWeight="0.16170213" side_tool="true" weight="0.258596" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.16823688" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.495702" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.42621776" weight="0.36742935" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5737822" side_tool="true" visible="true" weight="0.34185734" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.43266475" weight="0.34185734" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295129" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.66033757" side_tool="true" weight="0.18553008" />
+      <window_info anchor="right" id="Ant Build" order="9" sideWeight="0.33966243" weight="0.18553008" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/stcpream/StaticSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="92" lean-forward="true" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/button/RecoverButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/javafx-src.zip!/javafx/scene/web/WebHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1912">
+          <caret line="150" column="44" selection-start-line="150" selection-start-column="40" selection-end-line="150" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/ButtonFunctionBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#969#970#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1168#1169#0" expanded="true" />
+            <element signature="e#1194#1195#0" expanded="true" />
+            <element signature="e#1232#1233#0" expanded="true" />
+            <element signature="e#1262#1263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/button/UpdateButButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/DefaultStringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="59" column="25" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/src.zip!/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resourse/button.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defaultDB/implDb/ComplateXmlDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/XDocUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stcpream/AllStaticLocalSizeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <element signature="e#4493#4494#0" expanded="true" />
+            <element signature="e#4558#4559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frame/HtmlSetJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="392" column="64" lean-forward="true" selection-start-line="392" selection-start-column="64" selection-end-line="392" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8376#9320#0" expanded="true" />
+            <element signature="e#9319#9320#0" expanded="true" />
+            <element signature="e#13068#13245#0" expanded="true" />
+            <element signature="e#13244#13245#0" expanded="true" />
+            <element signature="e#16950#17157#0" expanded="true" />
+            <element signature="e#17156#17157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/button/RightButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="101" column="77" lean-forward="true" selection-start-line="101" selection-start-column="77" selection-end-line="101" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/electric-managemen/component_bounds.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/button/DelButButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/jixuqu_black.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/hangyeleibie.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/hangyeleibie_black.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/hangyeleibie_bright.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/hangyeleibie_world.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/90a799ca37ae809c76b438890b99a3c0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/jixuqu_world.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/frame_backgroup.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/button.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/back.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/return_button.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/toumingtu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/zongkaiguan.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/zongkaiguan_black.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/zongkaiguan_bright.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/zongkaiguan_world.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/out_component_backetground.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stcpream/AllBoundSetting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/swing/SwingUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="1288" column="23" selection-start-line="1288" selection-start-column="23" selection-end-line="1288" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frame/HtmlJPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1448#1449#0" expanded="true" />
+            <element signature="e#1485#1486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="427" column="13" selection-start-line="427" selection-start-column="13" selection-end-line="427" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/MainComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3002">
+          <caret line="187" column="17" selection-start-line="187" selection-start-column="17" selection-end-line="187" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/rightComponent/TechnicalAreaComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/action/ChangeSizeAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="92" column="63" selection-start-line="92" selection-start-column="63" selection-end-line="92" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/button/buttonFaction/ChangeSizeButtonFaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/rightComponent/MainSwitchComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="144" column="42" lean-forward="true" selection-start-line="144" selection-start-column="42" selection-end-line="144" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/rightComponent/IndustryCategoryComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/rightLayComponetn/RightComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/button/ChangeSizeButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="64" column="51" lean-forward="true" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/rightLayComponetn/RightOutComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="102" column="71" selection-start-line="102" selection-start-column="71" selection-end-line="102" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/rightLayComponetn/RightMiddleComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/LoadProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="97" column="92" selection-start-line="97" selection-start-column="92" selection-end-line="97" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temple/rightComponent/TechnicalDetailsComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="205" lean-forward="true" selection-start-line="205" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>electric-managemen:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>electric-managemen</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>beautyeye_lnf</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
