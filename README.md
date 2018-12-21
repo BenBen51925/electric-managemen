@@ -1,0 +1,6 @@
+# swing+javaFx内嵌浏览器+xdoc文档编辑器+可编辑图形化界面
+使用了xml编辑当做可编辑图形化界面的存储方式component_bounds.xml
+子页面使用了properties存储内容button.properties
+com口的发送信息使用的是rxtxParallel.dll以及rxtxSerial.dll库，插件使用的是RXTXcomm.jar
+
+该项目初始定义了左上角的商标click以后会触发编辑模式
